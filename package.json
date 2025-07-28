@@ -1,0 +1,25 @@
+{
+  "name": "liquiswap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NimaZeighami/LiquiSwap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NimaZeighami/LiquiSwap/issues"
+  },
+  "homepage": "https://github.com/NimaZeighami/LiquiSwap#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "ethers": "^6.15.0"
+  }
+}
