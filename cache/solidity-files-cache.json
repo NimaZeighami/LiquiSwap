@@ -1,0 +1,43 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/nimazeighami/Documents/GitHub/LiquiSwap/contracts/SwapAndAddLiquidity.sol": {
+      "lastModificationDate": 1753688844341,
+      "contentHash": "5875861e5e1cba6320c6488198b2ab9d",
+      "sourceName": "contracts/SwapAndAddLiquidity.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "viaIR": true,
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "IERC20",
+        "IUniswapV2Router",
+        "SimpleSwapAndAddLiquidity"
+      ]
+    }
+  }
+}
